@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently learning full stack concepts
 <!--
 **lavanyam2502/lavanyam2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
